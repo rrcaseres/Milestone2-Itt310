@@ -1,0 +1,74 @@
+﻿  QuizGame.c
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(18,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(18,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(18,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(18,21): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(19,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(19,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(19,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(19,21): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(24,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(24,25): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(24,25): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(24,25): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(25,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(25,25): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(25,25): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(25,25): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(30,29): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(30,29): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(30,29): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(30,29): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(31,29): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(31,29): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(31,29): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(31,29): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(52,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(52,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(52,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(52,21): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(53,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(53,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(53,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(53,21): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(58,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(58,25): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(58,25): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(58,25): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(59,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(59,25): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(59,25): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(59,25): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(64,29): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(64,29): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(64,29): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(64,29): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(65,29): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(65,29): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(65,29): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(65,29): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(85,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(85,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(85,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(85,21): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(86,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(86,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(86,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(86,21): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(91,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(91,25): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(91,25): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(91,25): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(92,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(92,25): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(92,25): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(92,25): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(97,29): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(97,29): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(97,29): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(97,29): message : this argument is used as a buffer size
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(98,29): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(98,29): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(98,29): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rrcas\source\repos\Milestone2\QuizGame.c(98,29): message : this argument is used as a buffer size
+  Milestone2.vcxproj -> C:\Users\rrcas\source\repos\Milestone2\Debug\Milestone2.exe
